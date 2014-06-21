@@ -1,9 +1,11 @@
+============================================================
 Average of each variable for each activity and each subject
+===========================================================
 
 variables   included:
 Mean and SD measures of  Human Activity Recognition Using Smartphones Dataset
 
-========================================================
+ 
 Source of the data:
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
  
@@ -12,7 +14,8 @@ R script for creating the mean of the selected measurements is in  run_analysis.
 Output file: MeanSDofMeasures.txt
 It contains 180 rows and 80 observations. 30 Subjects with each performing 6 activities
 
-Read "ReadMe.MD" for more information on the steps performed to create the data.
+Read "ReadMe.MD" for more information on the steps performed to create the data
+
 
 ========================================================
 Variables in the tidy data set
