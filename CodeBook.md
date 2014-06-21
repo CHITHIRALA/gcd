@@ -32,14 +32,14 @@ Variables in the tidy data set
     Type :  numerical
     Possible Values: 1 to 30
   
-  ==================================================================
+
   Following variables has genric descriptions 
    "-x"  at the end of the name represents the axial (x,y and z)
    "Acc" in the vairable name represent accelerometer signals
    "Gyro" in the variable name represent gyroscope signals
    "mean()" in the variable name represent mean of the observations
    "std()" in the variable name represent standard deviation of the observations
-  ============================================================================= 
+ 
    
     
   tBodyAcc-mean()-X                
