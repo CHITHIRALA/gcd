@@ -2,6 +2,7 @@ Average of each variable for each activity and each subject
 
 variables   included:
 Mean and SD measures of  Human Activity Recognition Using Smartphones Dataset
+
 ========================================================
 Source of the data:
  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
@@ -16,6 +17,7 @@ Read "ReadMe.MD" for more information on the steps performed to create the data.
 ========================================================
 Variables in the tidy data set
 ========================================================
+
   ActivityDesc                   
     Descrition:  Different activities subject performed
     Type  : Character 
