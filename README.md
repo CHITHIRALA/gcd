@@ -5,7 +5,7 @@ Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Università degli Studi di Genova.
+DITEN - Universitï¿½ degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
@@ -59,6 +59,7 @@ run_analyis.R has the code for performing the following steps
 14-Aggregate the activity codes mean and SD data by Activity and Subject
 15-Order the measuremetns by Activity Type  and Subject
 16-Write output to file "MeanAndSDofMeasures.txt" in the working directory
+
 =========================================================================
 
  
