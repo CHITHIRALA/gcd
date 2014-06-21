@@ -34,9 +34,9 @@ The following files used from the above the source:
 
 ====================================================================
 High level steps creating mean and SD for measurements of train and test data
-1 - Unload the files from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-2 - Unzip the files into working directory
-3 - Run the run_analysis.R to create the mean and SD for measurements
+* Unload the files from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+* Unzip the files into working directory
+* Run the run_analysis.R to create the mean and SD for measurements
 
 ====================================================================
 Detailed steps performed for creating mean and SD for measurements of train and test data
@@ -47,18 +47,18 @@ run_analyis.R has the code for performing the following steps
 * Change the default column labels to descriptive names("Activity","ActivityDesc"
 * Load features into data frame from features.txt 
 * Load Activity codes, activitity labes and subjects for training subjects 
-5- Change default lables to descriptive labesls for Activity codes, activity lables and subjects
-6- Combine activity codes, activity labels and subjects for training data
-7- Load Activity codes, activitity labes and subjects for test subjects 
-8- Change default lables to descriptive labesls for Activity codes, activity lables and subjects
-9- Combine activity codes, activity labels and subjects for test subjects 
-10-Combine and test and train subjects data
-11-create another data frame with  acitivy codes of mean and SD
-12-Mege with activity_labels to get the activity description
-13-Remove the activity_code 
-14-Aggregate the activity codes mean and SD data by Activity and Subject
-15-Order the measuremetns by Activity Type  and Subject
-16-Write output to file "MeanAndSDofMeasures.txt" in the working directory
+* Change default lables to descriptive labesls for Activity codes, activity lables and subjects
+* Combine activity codes, activity labels and subjects for training data
+* Load Activity codes, activitity labes and subjects for test subjects 
+* Change default lables to descriptive labesls for Activity codes, activity lables and subjects
+* Combine activity codes, activity labels and subjects for test subjects 
+* Combine and test and train subjects data
+* Create another data frame with  acitivy codes of mean and SD
+* Merge with activity_labels to get the activity description
+* Remove the activity_code 
+* Aggregate the activity codes mean and SD data by Activity and Subject
+* Order the measuremetns by Activity Type  and Subject
+* Write output to file "MeanAndSDofMeasures.txt" in the working directory
 
 =========================================================================
 
