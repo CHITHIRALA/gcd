@@ -43,10 +43,10 @@ Detailed steps performed for creating mean and SD for measurements of train and 
 
 run_analyis.R has the code for performing the following steps
 
-1- Load activity into data frame from activity_labels.txt
-2- Change the default column labels to descriptive names("Activity","ActivityDesc"
-3- Load features into data frame from features.txt 
-4- Load Activity codes, activitity labes and subjects for training subjects 
+* Load activity into data frame from activity_labels.txt
+* Change the default column labels to descriptive names("Activity","ActivityDesc"
+* Load features into data frame from features.txt 
+* Load Activity codes, activitity labes and subjects for training subjects 
 5- Change default lables to descriptive labesls for Activity codes, activity lables and subjects
 6- Combine activity codes, activity labels and subjects for training data
 7- Load Activity codes, activitity labes and subjects for test subjects 
